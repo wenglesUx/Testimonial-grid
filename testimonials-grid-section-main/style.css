@@ -88,7 +88,7 @@ grid-row: 4/12;
 h2{
     margin-bottom: 20px;
 }
-@media(max-width:500px){
+@media(max-width:900px){
     #container{
     width:95vw;
     height: 100vh; 
